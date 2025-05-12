@@ -1,29 +1,34 @@
-# Frontend Developer Portfolio
-Welcome to my portfolio repository! This serves as a showcase of my skills, projects, and experience as a frontend developer, ready to take on exciting opportunities in the tech industry.
+## Hi there 👋
+I'm Nwabueze Godwin Chinaza, a passionate front-end developer eager to build beautiful, responsive, and user-friendly websites. I love learning new technologies and creating intuitive user experiences.
 
-### About Me
-My name is Nwabueze Godwin.C I am a passionate frontend developer with a strong foundation in creating user-friendly interfaces and an eye for design. My goal is to build seamless, responsive, and visually appealing web applications that enhance user experiences.
-### Skills
+### 🚀 Skills
+- HTML, CSS, JavaScript
+- Frameworks: React, Tailwind CSS
+- Tools: Git, GitHub, VS Code
+
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat)
 Here are the core technologies and tools I work with:
 
-Languages & Frameworks
-HTML5, CSS3, JavaScript (ES6+)
-- [x] React.js
-- [x] Vue.js
-- [x] (Sass/SCSS, Bootstrap, Tailwind CSS)
-### Tools & Platforms
-Git & GitHub for version control and collaboration
-- [x] Webpack
-- [x] Vite
-Parcel for bundling and optimizing
-#### design collaboration
-- Figma.
-- GIMP.
-  
-#### Chrome DevTools for debugging and performance optimization
-### Follow me on [linkedin👉](https://linkedin.com/in/godwin-chinaza-nwabueze)
+### 🌟 Projects
 
-### Read
+- **[eacharity.org](https://eacharity.org)**: A responsive portfolio showcasing my work.
+- **[Weather App](https://github.com/your-username/weather-app)**: A React-based app displaying weather forecasts.
+- **[To-Do List](https://github.com/your-username/todo-list)**: A simple to-do list app built with JavaScript and local storage.
+
+### 📚 Currently Learning
+- Advanced JavaScript
+- TypeScript
+- Building projects with React Hooks
+
+### 📫 Contact Me
+- Email: maxwellshapiro95@gmail.com
+- LinkedIn: [Nwabueze Godwin Chinaza👉](https://linkedin.com/in/godwin-chinaza-nwabueze)
+<!-- Portfolio: [eacharity.org](https://eacharity.org) -->
+
+### 🌟 Fun Fact
+I love solving puzzles and coding challenges in my free time!
 
 - [ ] About Progressive web apps
 - [x] Have a look at my Websites [eacharity.org](https://eacharity.org/) and [Chideraekechi.com](http://chideraekechi.com/)
