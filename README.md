@@ -16,16 +16,17 @@ Git & GitHub for version control and collaboration
 - [x] Webpack
 - [x] Vite
 Parcel for bundling and optimizing
-Figma for design collaboration
+#### design collaboration
+- Figma.
+- GIMP.
 Chrome DevTools for debugging and performance optimization
-### Follow me on [Twitter👉](https://twitter.com/developerruhul)
+### Follow me on [linkedin👉](https://www.linkedin.com/in/godwin-chinaza-nwabueze)
 
 ### Read
 
 - [ ] About Progressive web apps
-- [ ] Have a look at my Website [eacharity.org](https://eacharity.org/) and 
-- [ ] About service workers
-- [ ] Using lighthouse
+- [x] Have a look at my Websites [eacharity.org](https://eacharity.org/) and [Chideraekechi.com](http://chideraekechi.com/)
+
 
 <!--
 **Nwabueze11/Nwabueze11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
