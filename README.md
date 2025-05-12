@@ -14,6 +14,7 @@ Here are the core technologies and tools I work with:
 ### 🌟 Projects
 
 - **[eacharity.org](https://eacharity.org)**: A responsive portfolio showcasing my work.
+- **[Chideraekechi.com](http://chideraekechi.com/)**: A responsive portfolio showcasing my work.
 - **[Weather App](https://github.com/your-username/weather-app)**: A React-based app displaying weather forecasts.
 - **[To-Do List](https://github.com/your-username/todo-list)**: A simple to-do list app built with JavaScript and local storage.
 
@@ -29,9 +30,6 @@ Here are the core technologies and tools I work with:
 
 ### 🌟 Fun Fact
 I love solving puzzles and coding challenges in my free time!
-
-- [ ] About Progressive web apps
-- [x] Have a look at my Websites [eacharity.org](https://eacharity.org/) and [Chideraekechi.com](http://chideraekechi.com/)
 
 
 <!--
