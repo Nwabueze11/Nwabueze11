@@ -20,7 +20,7 @@ Parcel for bundling and optimizing
 - Figma.
 - GIMP.
 Chrome DevTools for debugging and performance optimization
-### Follow me on [linkedin👉](https://www.linkedin.com/in/godwin-chinaza-nwabueze)
+### Follow me on [linkedin👉](https://linkedin.com/in/godwin-chinaza-nwabueze)
 
 ### Read
 
