@@ -19,7 +19,8 @@ Parcel for bundling and optimizing
 #### design collaboration
 - Figma.
 - GIMP.
-Chrome DevTools for debugging and performance optimization
+  
+#### Chrome DevTools for debugging and performance optimization
 ### Follow me on [linkedin👉](https://linkedin.com/in/godwin-chinaza-nwabueze)
 
 ### Read
