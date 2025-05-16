@@ -21,6 +21,7 @@ Here are the core technologies and tools I work with:
 ### 📚 Currently Learning
 - Advanced JavaScript
 - TypeScript
+- Python
 - Building projects with React Hooks
 
 ### 📫 Contact Me
